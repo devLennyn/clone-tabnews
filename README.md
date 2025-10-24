@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Desenvolvimento do projeto para estudo de programação
+Desenvolvimento do projeto para o estudo de programação
